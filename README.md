@@ -51,9 +51,9 @@ classical-machine-learning-models/
 
 ✅ Decision Tree
 
-▶️ Random Forest
+✅ Random Forest
 
-⏳ Support Vector Machine (SVM)
+▶️ Support Vector Machine (SVM)
 
 ⏳ K-Nearest Neighbors (KNN)
 
