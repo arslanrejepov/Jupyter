@@ -53,9 +53,9 @@ classical-machine-learning-models/
 
 ✅ Random Forest
 
-▶️ Support Vector Machine (SVM)
+✅ Support Vector Machine (SVM)
 
-⏳ K-Nearest Neighbors (KNN)
+▶️ K-Nearest Neighbors (KNN)
 
 ⏳ Naive Bayes
 
