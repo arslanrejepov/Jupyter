@@ -55,9 +55,9 @@ classical-machine-learning-models/
 
 ✅ Support Vector Machine (SVM)
 
-▶️ K-Nearest Neighbors (KNN)
+✅ K-Nearest Neighbors (KNN)
 
-⏳ Naive Bayes
+▶️ Naive Bayes
 
 ⏳ Gradient Boosting (XGBoost / LightGBM)
 
