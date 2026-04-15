@@ -34,10 +34,6 @@ classical-machine-learning-models/
 │   ├── random_forest.ipynb
 │   └── random_forest_regressor.ipynb
 │
-├── clustering/
-│   ├── kmeans.ipynb
-│   └── dbscan.ipynb
-│
 └── README.md
 ```
 
@@ -71,13 +67,6 @@ classical-machine-learning-models/
 
 ⏳ Ridge & Lasso Regression
 
-⏳ Random Forest Regressor
-
-3️⃣ Clustering (Unsupervised)
-
-⏳ K-Means
-
-⏳ DBSCAN
 
 ---
 
